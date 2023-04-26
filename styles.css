@@ -1,0 +1,22 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: chocolate;
+    background-color: bisque;
+
+}
+li{
+    font-size: 14px;
+}
+a{
+    color: brown;
+}
+.div2{
+    font-style: italic;
+}
+.div3{
+    color:black;
+}
+.div1{
+    padding-left: 10%;
+}
